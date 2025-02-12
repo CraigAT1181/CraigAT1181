@@ -4,4 +4,6 @@ Thanks for visiting my Github profile, my name is Craig and having completed a S
 
 This application is a website that seeks to support a number of social enterprise goals around food security and strengthening food-independence throughout out communities.
 
-The web application uses React on the front-end and Flask at the back, written in Python. Do feel free to check out the repo (pinned)!
+In my pinned repos you'll find agrarian, which is the web version of the app, and grow-revolution, which is the mobile application, using React Native and NestJS.
+
+Thanks again for visiting!
